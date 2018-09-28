@@ -76,4 +76,12 @@ https://swarmcitysupport.groovehq.com/knowledge_base/categories/swarm-city-token
 <p><span style="font-size: large;"><br /></span></p>
 <p><span style="font-size: large;">For complete instructions, visit <a href="https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08#.n5fddxmdg">Trezor</a>.</span></p>
 
-# 
+# Can I trade my SWT for cash in the Swarm City DApp?
+<p><span style="font-size: large;">No, you can visit a cryptocurrency exchange to trade SWT for another token like bitcoin or ether, and then you can send it to your Coinbase account and sell it, having it sent to your connected PayPal or checking acct.&nbsp;</span></p>
+<p><span style="font-size: large;">List of exchanges that have SWT available for trade:</span></p>
+<ul>
+<li dir="ltr"><span><a href="https://bittrex.com/Market/Index?MarketName=BTC-SWT">Bittrex</a>, SWT-BTC pair</span></li>
+<li dir="ltr"><a href="https://changelly.com">Changelly</a>, SWT-any other available token</li>
+<li dir="ltr"><a href="https://www.shapeshift.io/#/coins">ShapeShift</a>, SWT-any other available token</li>
+</ul>
+<p><span style="font-size: large;">Or you can sell them to a local peer on <a href="https://localbitcoins.com/">localbitcoins.com</a></span></p>
